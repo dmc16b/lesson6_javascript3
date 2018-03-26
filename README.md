@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 25, 2018
 
 ### Student Name:  
-(First and Last Name)
+Daysi Chavarria
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project is used to get familiar with HTML DOM and use more features on JavaScript in order to create more dynamic web pages.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://dmc16b.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. A lesson I learned in this assignment is that it is important to be very careful when inputting information in JavaScript because a small mistake can cause a project to not work, such as not capitalizing a letter in an addEventListener function.
+2. The HTML document object model (DOM) allows JavaScript to access and alter all elements of an HTML document, which allows for dynamic and intuitive pages.
+3. The document object allows for manipulation (change, delete, add) of and access to parts of an HTML document. 
